@@ -1,18 +1,53 @@
 /*CSS Style Document*/
 
 p{
-	color:red;
-}
+	color:red; 
+	font-family:Franklin Gothic Medium; 
+	font-size:20px
 
-img{
-	height:200px;
-	width: 300px;
 }
 
 ul{
-	list-style-type: square;
+	color:red;
+	font-family:Franklin Gothic Book;
+	font-size: 15px;
 }
 
-h1{
-	font-family: "Helvetica Neue", sans-serif;
+blockquote{
+	color:green;
+	font-family: Stag Thin;
+	font-size: 40px
+}
+
+img{
+	height:1000px; 
+	width:1350px
+}
+
+ul{
+	list-style-type:square;
+}
+
+.favorite-things-list{
+	background-color:yellow
+}
+
+#not-red{
+	color:blue
+}
+
+#diff-size{
+	height:1350px;
+	width:2400px
+}
+
+#diff-size2{
+	height:450px;
+	width:600px
+}
+
+.byline{
+	font-size: 12px;
+	font-family:Times;
+	text-transform:uppercase
 }
